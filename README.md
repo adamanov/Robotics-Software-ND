@@ -15,5 +15,8 @@ The helpful materials are listed here:
     
   3. Fernando Jaruche Nunes's Medium posts
     [Udacity Robotics ND Project 1 — Search and Sample Return](https://medium.com/@fernandojaruchenunes/udacity-robond-project-1-search-and-sample-return-2d8165a53a78), [Udacity Robotics ND Project 2 — Robotic Arm: Pick & Place](https://medium.com/@fernandojaruchenunes/udacity-robotics-nd-project-2-robotic-arm-pick-place-71af9c9ba519), [Udacity Robotics ND Project 3 — 3D Perception](https://medium.com/@fernandojaruchenunes/udacity-robotics-nd-project-3-3d-perception-2ffc92eeee94)
+        
+  4. Josh Schertz's posts
+    [Robotics Nanodegree Project 1 - Rover Search and Sample Return](https://joshschertz.com/2017/06/01/Robotics-Nanodegree-Project-1/), [Robotics Nanodegree Project 2 - Pick and Place](https://joshschertz.com/2017/07/13/Robotics-Nanodegree-Project-2/), [Robotics Nanodegree Project 3 - 3D Perception](https://joshschertz.com/2017/08/14/Robotics-Nanodegree-Project-3/), [Robotics Nanodegree Project 4 - Deep Learning](https://joshschertz.com/2017/11/06/Robotics-Nanodegree-Project-4/)
     
 Happy learning! 

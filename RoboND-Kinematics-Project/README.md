@@ -1,7 +1,9 @@
 [![Udacity - Robotics NanoDegree Program](https://s3-us-west-1.amazonaws.com/udacity-robotics/Extra+Images/RoboND_flag.png)](https://www.udacity.com/robotics)
 # Robotic arm - Pick & Place project
 
-Make sure you are using robo-nd VM or have Ubuntu+ROS installed locally.
+## My simulation video is [here](https://youtu.be/k85iwW0eFQQ).
+
+Keep in mind: when you open a new terminal, make sure to source first using $ source ~/catkin_ws/devel/setup.bash.
 
 ### One time Gazebo setup step:
 Check the version of gazebo installed on your system using a terminal:

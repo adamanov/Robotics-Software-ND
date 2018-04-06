@@ -3,6 +3,8 @@
 [![Udacity - Robotics NanoDegree Program](https://s3-us-west-1.amazonaws.com/udacity-robotics/Extra+Images/RoboND_flag.png)](https://www.udacity.com/robotics)
 # Search and Sample Return Project
 
+![Alt Text](https://github.com/jwangjie/Robotics-Software-ND/blob/master/RoboND-Rover-Project/rover.gif)
+
 ## My simulation video is [here](https://github.com/jwangjie/Robotics-Software-ND/blob/master/RoboND-Rover-Project/Rover_4x.mp4).
 
 

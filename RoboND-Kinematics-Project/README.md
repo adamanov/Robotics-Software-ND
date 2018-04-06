@@ -1,7 +1,8 @@
 [![Udacity - Robotics NanoDegree Program](https://s3-us-west-1.amazonaws.com/udacity-robotics/Extra+Images/RoboND_flag.png)](https://www.udacity.com/robotics)
 # Robotic arm - Pick & Place project
 
-## My simulation video is [here](https://youtu.be/k85iwW0eFQQ).
+## My simulation video:
+[![My simulation video](https://github.com/jwangjie/Robotics-Software-ND/blob/master/RoboND-Kinematics-Project/Rviz%20%26%20Gazebo.png)](https://youtu.be/k85iwW0eFQQ)
 
 Keep in mind: when you open a new terminal, make sure to source first using $ source ~/catkin_ws/devel/setup.bash.
 
